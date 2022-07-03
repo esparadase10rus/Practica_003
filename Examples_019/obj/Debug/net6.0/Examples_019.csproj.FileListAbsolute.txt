@@ -1,0 +1,15 @@
+C:\Users\arter\Desktop\Practica_C#_003\Examples_019\bin\Debug\net6.0\Examples_019.exe
+C:\Users\arter\Desktop\Practica_C#_003\Examples_019\bin\Debug\net6.0\Examples_019.deps.json
+C:\Users\arter\Desktop\Practica_C#_003\Examples_019\bin\Debug\net6.0\Examples_019.runtimeconfig.json
+C:\Users\arter\Desktop\Practica_C#_003\Examples_019\bin\Debug\net6.0\Examples_019.dll
+C:\Users\arter\Desktop\Practica_C#_003\Examples_019\bin\Debug\net6.0\Examples_019.pdb
+C:\Users\arter\Desktop\Practica_C#_003\Examples_019\obj\Debug\net6.0\Examples_019.csproj.AssemblyReference.cache
+C:\Users\arter\Desktop\Practica_C#_003\Examples_019\obj\Debug\net6.0\Examples_019.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arter\Desktop\Practica_C#_003\Examples_019\obj\Debug\net6.0\Examples_019.AssemblyInfoInputs.cache
+C:\Users\arter\Desktop\Practica_C#_003\Examples_019\obj\Debug\net6.0\Examples_019.AssemblyInfo.cs
+C:\Users\arter\Desktop\Practica_C#_003\Examples_019\obj\Debug\net6.0\Examples_019.csproj.CoreCompileInputs.cache
+C:\Users\arter\Desktop\Practica_C#_003\Examples_019\obj\Debug\net6.0\Examples_019.dll
+C:\Users\arter\Desktop\Practica_C#_003\Examples_019\obj\Debug\net6.0\refint\Examples_019.dll
+C:\Users\arter\Desktop\Practica_C#_003\Examples_019\obj\Debug\net6.0\Examples_019.pdb
+C:\Users\arter\Desktop\Practica_C#_003\Examples_019\obj\Debug\net6.0\Examples_019.genruntimeconfig.cache
+C:\Users\arter\Desktop\Practica_C#_003\Examples_019\obj\Debug\net6.0\ref\Examples_019.dll
